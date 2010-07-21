@@ -4,8 +4,8 @@ On 7/20/2010, between 9:45 and 10:00 p.m. MST, the dam at the west end of
 Tempe Town Lake broke spilling thousands of gallons of water into the 
 adjacent salt bed.
 
-The USGS has all sorts of sensors allowing people to get an idea of various
-reports, such as the discharge rate
+The USGS has all sorts of sensors allowing people to get various readings,
+such as the discharge rate
 
 This code calculates the total volume discharged based on the USGS RDB API
 
