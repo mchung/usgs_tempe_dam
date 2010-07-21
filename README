@@ -8,3 +8,8 @@ The USGS has all sorts of sensors allowing people to get an idea of various
 reports, such as the discharge rate
 
 This code calculates the total volume discharged based on the USGS RDB API
+
+As of Wed Jul 21 01:19:16 MST 2010
+
+Total volume of Tempe Town Lake: 126,779,654 cubic feet
+Total volume discharged        : 93,904,200 cubic feet
